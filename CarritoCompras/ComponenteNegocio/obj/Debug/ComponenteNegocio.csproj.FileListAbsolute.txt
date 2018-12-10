@@ -1,0 +1,11 @@
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\bin\Debug\ComponenteNegocio.dll
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\bin\Debug\ComponenteNegocio.pdb
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\bin\Debug\BDConexion.dll
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\bin\Debug\ComponenteDatos.dll
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\bin\Debug\ComponenteEntidad.dll
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\bin\Debug\BDConexion.pdb
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\bin\Debug\ComponenteDatos.pdb
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\bin\Debug\ComponenteEntidad.pdb
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\obj\Debug\ComponenteNegocio.csprojResolveAssemblyReference.cache
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\obj\Debug\ComponenteNegocio.dll
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\obj\Debug\ComponenteNegocio.pdb
